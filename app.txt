@@ -1,3 +1,4 @@
 Application: Payment API
 Environment: Development
 Port: 8080
+Monitoring: Enabled
